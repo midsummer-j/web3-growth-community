@@ -1,3 +1,7 @@
+## 3.2024-04-09
+- [Solana](https://github.com/solana-labs/dapp-scaffold?tab=readme-ov-file)环境搭建
+
+- 学习web3实战课03：认识密钥和签名，批量创建账户
 
 ## 3.2024-03-30
 - 学习区块链的由来
